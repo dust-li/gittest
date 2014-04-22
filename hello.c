@@ -14,5 +14,7 @@ int main(void)
 	printf("hey, I ma going to do a new fast-forward merage");
 
 	printf("I am doing some job that is not done\n");
+
+	printf("developed a new feature on notebook!\n");
 	return c;
 }

@@ -13,5 +13,7 @@ int main(void)
 =======
 	printf("this is a new feature!\n");
 >>>>>>> feature1
+
+	printf("ok, did some changes in the master again\n");
 	return c;
 }

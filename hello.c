@@ -16,5 +16,7 @@ int main(void)
 	printf("hey, I ma going to do a new fast-forward merage");
 
 	pritnf("OK, I've done the fast forward merge!\n");
+
+    printf("master change 1");
 	return c;
 }

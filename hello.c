@@ -9,5 +9,6 @@ int main(void)
 	int b = 20;
 	int c  = a + b;
 	printf("this is a new feature!\n");
+	printf("ok, developed some new features!\n");
 	return c;
 }

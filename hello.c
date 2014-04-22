@@ -10,5 +10,7 @@ int main(void)
 	int c  = a + b;
 	printf("this is a new feature!\n");
 	printf("ok, developed some new features!\n");
+
+	printf("hey, I ma going to do a new fast-forward merage");
 	return c;
 }

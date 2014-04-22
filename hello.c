@@ -11,5 +11,7 @@ int main(void)
 
 	printf("some new features in master\n");
 	printf("ok, developed some new features!\n");
+
+	printf("hey, I ma going to do a new fast-forward merage");
 	return c;
 }

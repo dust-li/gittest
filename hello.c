@@ -8,5 +8,5 @@ int main(void)
 	int a = 10 // what's this?
 	int b = 20;
     int c  = a + b;
-	return 0;
+	return c;
 }

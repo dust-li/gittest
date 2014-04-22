@@ -5,5 +5,6 @@ int main(void)
 	printf("hello world!\n");
 	printf("this is a new line\n");
 	printf("hei hei ,this is a new test");
+	int a = 10 // what's this?
 	return 0;
 }

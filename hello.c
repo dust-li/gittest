@@ -10,5 +10,11 @@ int main(void)
     int c  = a + b;
 
     printf("OH, I am very behind the origin\n");
+	printf("some new features in master\n");
+	printf("ok, developed some new features!\n");
+
+	printf("hey, I ma going to do a new fast-forward merage");
+
+	pritnf("OK, I've done the fast forward merge!\n");
 	return c;
 }

@@ -6,5 +6,6 @@ int main(void)
 	printf("this is a new line\n");
 	printf("hei hei ,this is a new test");
 	int a = 10 // what's this?
+	int b = 20;
 	return 0;
 }

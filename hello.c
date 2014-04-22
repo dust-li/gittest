@@ -8,6 +8,10 @@ int main(void)
 	int a = 10 // what's this?
 	int b = 20;
 	int c  = a + b;
+<<<<<<< HEAD
 	printf("this is added in the master branch\n");
+=======
+	printf("this is a new feature!\n");
+>>>>>>> feature1
 	return c;
 }
